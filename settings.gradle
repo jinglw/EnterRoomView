@@ -1,0 +1,3 @@
+include ':enterroomview'
+include ':app'
+rootProject.name = "EnterRoomView"
